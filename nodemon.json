@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGOLAB_URI":"mongodb://eren:abc123@127.0.0.1:27017/shop",
+        "JWT_KEY":"secret"
+    }
+    
+}
