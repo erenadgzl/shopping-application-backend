@@ -1,4 +1,4 @@
-# shopping-application-backend
+# shopping-application-backend NodeJS & MongoDB
 shopping application NodeJS RestfulAPI
 <br>
 Uygulama kullanıcı arayüzü, market paneli ve admin paneli olmak üzere üç bölümden oluşmaktadır.
